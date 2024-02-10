@@ -1,6 +1,6 @@
 # Grocery List App
 
-![App Screenshot](https://github.com/NikoCalzavara/Grocery-List-App/assets/140706412/722caa9d-315d-4a2b-abfb-cae0029952f6)
+![App_Screenshot](https://github.com/NikoCalzavara/GroceryList_App/assets/140706412/473469e7-1ab3-4530-89d9-c8d862c671c5)
 
 ## Overview
 The Grocery List App is a simple mobile application developed for managing your grocery shopping list. With this app, you can easily add, remove, and manage items on your shopping list, making your grocery shopping experience more organized and efficient.
