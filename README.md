@@ -18,7 +18,7 @@ To get started with the Grocery List App, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/grocery-list-app.git
+   git clone https://github.com/NikoCalzavara/GroceryList_App.git
    ```
 
 2. **Open in Android Studio:** Open the project in Android Studio by selecting the `grocery-list-app` directory.
