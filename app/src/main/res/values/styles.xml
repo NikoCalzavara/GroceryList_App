@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Impostazioni per la modalità giorno -->
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <!-- Impostazioni per la modalità notte -->
+        <item name="android:windowBackground">@color/black</item> <!-- Sfondo scuro -->
+        <item name="android:textColor">@color/white</item> <!-- Testo bianco -->
+    </style>
+</resources>
