@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
     EditText input;
     ImageView enter;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
